@@ -1,7 +1,8 @@
 # VolcanoMap
 
-The code produces a map showing volcanoes in USA, and shows name and height when clicked. 
+This code produces a map showing volcanoes in USA, and shows name and height when clicked. 
 Volcanoes colour coded based on height:
+Volcano data set is in volcanoes.txt in csv format.
 Green < 2000 metres,
 Orange 2000-3000 metres,
 Red >= 3000 metres
